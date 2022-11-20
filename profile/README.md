@@ -5,6 +5,7 @@
 </p>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/cloudacode?style=social)
+![GitHub User's followers](https://img.shields.io/github/followers/kcfigaro?style=social)
 
 🙋‍♀️ Welcome to cloudacode's organization on GitHub where we love all things open source.
 
